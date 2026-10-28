@@ -30,6 +30,7 @@ def index():
         <h3>Results:</h3>
         Total: {total}<br>
         Average: {average:.2f}<br>
+        Grade: {grade}
         """
     return HTML
 
